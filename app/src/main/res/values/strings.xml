@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Profil</string>
+    <string name="eko_prasetyo">Eko Prasetyo</string>
+    <string name="ini_adalah_aplikasi_profil_saya_guna_memenuhi_project_uts_mobile_programing">Ini adalah aplikasi profil saya. Guna memenuhi project UTS Mobile Programing</string>
+    <string name="npm">NPM</string>
+    <string name="mahasiswa_informatika_upgris">Mahasiswa Informatika UPGRIS</string>
+    <string name="detail_profil">Detail Profil</string>
+    <string name="semester">Semester</string>
+    <string name="enam">Enam</string>
+    <string name="uts">UTS</string>
+    <string name="github">Github</string>
+</resources>
